@@ -31,16 +31,12 @@ puts gallery3.login?
 If you get item, you can do it using with `Gallery3.find_item`
 
 ```ruby
-require 'ruby-gallery3'
-
 gallery3.find_item :id => 2
 ```
 
 If you crate album, you can do it using with `Gallery3.create_item`
 
 ```ruby
-require 'ruby-gallery3'
-
 gallery3.create_item :entity => {:name => "aaaa", :title => "aaa", :type => "album"}
 ```
 
