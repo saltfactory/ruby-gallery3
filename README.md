@@ -11,7 +11,7 @@ The first, you have to create `.gallery3.json` in `$HOME` directory. the next is
 	"host":"http://example.com",
 	 "base":"/gallery3",
 	 "rootItemId":2,
-	 "user":"saltfactory,
+	 "user":"saltfactory",
 	 "password":"saltfactory",
 	 "requestKey":"blahblahblah"
 }
